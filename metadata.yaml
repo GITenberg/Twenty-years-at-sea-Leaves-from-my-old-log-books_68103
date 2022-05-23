@@ -1,0 +1,27 @@
+_repo: Twenty-years-at-sea-Leaves-from-my-old-log-books_68103
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hill, Frederic Stanhope
+    gutenberg_agent_id: '54601'
+    url: http://www.gutenberg.org/2009/agents/54601
+description: ''
+gutenberg_issued: '2022-05-17'
+identifiers:
+  gutenberg: '68103'
+language: en
+pgterms:marc904: https://archive.org/details/twentyyearsatsea00hill/
+pgterms:marc905: 20200828220307hill
+pgterms:marc906: '1893'
+pgterms:marc907: US
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/American
+  Libraries.)
+publication_note: United States :Houghton, Mifflin and Company,1893.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Twenty years at sea: Leaves from my old log-books'
+url: http://www.gutenberg.org/ebooks/68103
